@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Yordan and I am a software engineer at MentorMate that is doing his best to support Vue.js ecosystem.
+My name is Yordan and I am a software engineer at MentorMate. I am doing my best to support Vue.js ecosystem :)
 
 <!--
 **Yordan-Ramchev/Yordan-Ramchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
