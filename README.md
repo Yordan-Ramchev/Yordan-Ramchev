@@ -3,6 +3,9 @@
 My name is Yordan and I am a software engineer at MentorMate. I am doing my best to support Vue.js ecosystem in my spare time :)
 
 Thank you for stopping by!
+
+![](https://komarev.com/ghpvc/?username=Yordan-Ramchev&abbreviated=true)
+
 <!--
 **Yordan-Ramchev/Yordan-Ramchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
