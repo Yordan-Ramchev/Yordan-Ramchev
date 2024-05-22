@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Yordan and I am a software engineer at MentorMate. I am doing my best to support Vue.js ecosystem in my spare time :)
+My name is Yordan, and I am a software engineer at MentorMate. I am doing my best to support Vue.js ecosystem in my spare time :)
 
 Thank you for stopping by!
 
