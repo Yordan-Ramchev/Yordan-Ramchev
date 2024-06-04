@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-[![Commits to create Vue app](https://img.shields.io/github/commit-activity/t/vuejs/create-vue?authorFilter=yordan-ramchev&label=vuejs/create-vue&logo=vuedotjs&color=4FC08D)](https://github.com/vuejs/create-vue/commits?author=yordan-ramchev)[![Commits to Vue docs](https://img.shields.io/github/commit-activity/t/vuejs/docs?authorFilter=yordan-ramchev&label=vuejs/docs&&logo=vuedotjs&color=4FC08D)](https://github.com/vuejs/docs/commits?author=yordan-ramchev)[![Commits to Vue Devtools](https://img.shields.io/github/commit-activity/t/vuejs/devtools-next?authorFilter=yordan-ramchev&label=vuejs/devtools-next&logo=vuedotjs&color=4FC08D)](https://github.com/vuejs/devtools-next/commits?author=yordan-ramchev)
+[![Commits to create Vue app](https://img.shields.io/github/commit-activity/t/vuejs/create-vue?authorFilter=yordan-ramchev&label=vuejs/create-vue&logo=vuedotjs&color=4FC08D)](https://github.com/vuejs/create-vue/commits?author=yordan-ramchev) [![Commits to Vue docs](https://img.shields.io/github/commit-activity/t/vuejs/docs?authorFilter=yordan-ramchev&label=vuejs/docs&&logo=vuedotjs&color=4FC08D)](https://github.com/vuejs/docs/commits?author=yordan-ramchev) [![Commits to Vue Devtools](https://img.shields.io/github/commit-activity/t/vuejs/devtools-next?authorFilter=yordan-ramchev&label=vuejs/devtools-next&logo=vuedotjs&color=4FC08D)](https://github.com/vuejs/devtools-next/commits?author=yordan-ramchev)
 
 My name is Yordan, and I am a software engineer at MentorMate. I am doing my best to support Vue.js ecosystem in my spare time :)
 
